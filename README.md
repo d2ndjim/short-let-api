@@ -4,7 +4,7 @@
 
 This project is the backend service provider for the Short Let application, which helps the frontend to register, and login using JWT. It also provides many API endpoints to read, write, update, and delete data from all parts of the project. We built a simple and useful documentation for this project so the community can have an idea how to use this.
 
-> Here is a link to the [frontend application](https://github.com/ichala/short-let-frontend) repository.
+> Here is a link to the [frontend application](https://github.com/d2ndjim/short-let-frontend) repository.
 
 This application was built as a group project in less then 3 weeks.
 
@@ -24,7 +24,7 @@ Here is the [Kanban Board](https://github.com/ichala/short-let-api/issues/16) we
 
 ## Live Demo
 
-[Look at the live demo](https://short-let-island.vercel.app)
+[Look at the live demo](https://short-let-islands.vercel.app)
 
 
 ## Getting Started
@@ -33,7 +33,7 @@ Make sure you installed Ruby and PostgresSQL in your machine. Please follow the 
 To get a local copy and up and running follow these simple example steps.
 
 1. Open your favorite command line tool, and run the bellow commands.
-2. Run `git clone git@github.com:ichala/short-let-api.git`
+2. Run `git clone git@github.com:d2ndjim/short-let-api.git`
 3. Run `cd short-let-api`
 3. Run `bundle install`
 4. Run `cp .env.example .env`
